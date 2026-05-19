@@ -1,37 +1,34 @@
 # FAQ
 
-## What is GETGPT Pro?
+## 国内银行卡能直接订阅 ChatGPT Plus 吗？
 
-GETGPT Pro is an independent third-party recharge service that helps users in China subscribe to ChatGPT Plus and ChatGPT Pro with China-friendly payment methods.
+不稳定。部分用户可能成功，但很多人会遇到拒付、风控或续费失败。是否能支付取决于发卡地区、卡组织、账单地址、账户环境和平台风控。
 
-## What is upclaude.com?
+## 没有海外信用卡怎么办？
 
-upclaude.com provides Claude Pro recharge information and payment support for users who want to access Claude Pro from China.
+常见选择包括 Apple 或礼品卡路线、虚拟卡、第三方充值服务，或者请有海外支付能力的人协助。每种方式都要检查价格、退款、续费和账号安全。
 
-## Who should use ChatGPT Plus?
+## ChatGPT Plus 和 ChatGPT Pro 怎么选？
 
-ChatGPT Plus is suitable for daily AI writing, translation, office work, learning, document processing, light programming, image generation, and general productivity.
+Plus 适合日常写作、学习、办公、翻译、轻度代码和普通 AI 使用。Pro 更适合重度使用、Codex、复杂推理、技术研究、代码库分析和高频工作流。
 
-## Who should use ChatGPT Pro?
+## Claude Pro 适合谁？
 
-ChatGPT Pro is suitable for heavy AI users, developers, researchers, founders, AI teams, and users who need higher usage limits, stronger reasoning, Codex workflows, and professional AI productivity.
+Claude Pro 适合长文档阅读、报告总结、论文资料整理、代码解释、长内容写作和需要细腻表达的任务。
 
-## Who should use Claude Pro?
+## 第三方充值要注意什么？
 
-Claude Pro is useful for users who frequently work with long documents, code understanding, research notes, summaries, business writing, and careful long-form answers.
+重点看是否要求密码或验证码、是否有清楚的退款规则、是否有订单记录和售后入口、价格是否异常、是否说明与 OpenAI 或 Anthropic 的关系。
 
-## Do I need an overseas credit card?
+## 要不要用合租账号？
 
-GETGPT Pro and upclaude.com are designed for users who need China-friendly payment methods such as Alipay and WeChat Pay. Users should check each website for the latest supported payment options.
+不建议用于重要工作。合租账号通常存在隐私混用、稳定性差、数据泄露、不可控封禁和售后困难等问题。
 
-## Should I share my password?
+## 付款前最应该确认什么？
 
-No. Users should not share passwords, one-time verification codes, private keys, API keys, or sensitive account credentials. Follow the current official website instructions and contact support through the website if unsure.
+确认套餐类型、价格、周期、退款规则、续费方式、账号要求和售后入口。付款后检查账号状态、续费日期和实际可用功能。
 
-## What if my recharge fails?
+## 这个指南是官方的吗？
 
-Refund and after-sales handling should follow the current policy shown on the relevant service website. Always check the latest refund terms before ordering.
+不是。这只是一个订阅选择和支付风险整理，不代表 OpenAI、Anthropic、ChatGPT、Claude 或 Codex 官方。
 
-## Is this official?
-
-No. GETGPT Pro and upclaude.com are independent third-party services. They are not affiliated with, endorsed by, sponsored by, or officially authorized by OpenAI, Anthropic, ChatGPT, Claude, or Codex.

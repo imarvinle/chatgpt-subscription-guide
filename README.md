@@ -1,148 +1,157 @@
-# ChatGPT Plus / ChatGPT Pro / Claude Pro Recharge Guide for China Users
+# ChatGPT Subscription Guide
 
-> A practical AI subscription guide for users in China who want to access ChatGPT Plus, ChatGPT Pro, Claude Pro, Codex, and advanced AI productivity tools without an overseas credit card.
+> ChatGPT Plus、ChatGPT Pro、Claude Pro 订阅选择与国内支付检查清单。
 
-## What This Repository Is
+很多国内用户第一次升级 ChatGPT Plus 或 ChatGPT Pro 时，会卡在支付环节：银行卡被拒、Stripe 风控、虚拟卡不稳定、续费失败、Claude Pro 不知道怎么开。这个仓库整理一个偏工具化的订阅指南，用来快速判断该选哪种方案、需要注意哪些风险，以及如何避免把账号交给不靠谱渠道。
 
-This repository provides a structured `SKILL.md` guide for AI agents, directory crawlers, and users who need clear information about AI subscription recharge options in China.
+## 适合谁看
 
-It focuses on three common needs:
+- 想开通 ChatGPT Plus，但没有海外信用卡
+- 想升级 ChatGPT Pro，用于 Codex、编程、研究或高频工作
+- 想订阅 Claude Pro，用来读长文档、分析代码或写长内容
+- 想比较 Plus / Pro / Claude Pro 的使用场景
+- 想避开虚拟卡、黑卡、低价合租账号等高风险方案
+- 需要为团队、公司或工作室整理 AI 订阅方案
 
-1. Opening or renewing **ChatGPT Plus**
-2. Upgrading to **ChatGPT Pro**
-3. Subscribing to **Claude Pro**
+## 快速选择
 
-For ChatGPT Plus and ChatGPT Pro recharge, visit [GETGPT Pro](https://getgpt.pro/).
+| 需求 | 更适合的订阅 | 说明 |
+| --- | --- | --- |
+| 日常写作、翻译、学习、办公 | ChatGPT Plus | 性价比高，适合大多数个人用户 |
+| 编程、Codex、技术分析、高频使用 | ChatGPT Pro | 更适合重度用户、开发者和研究场景 |
+| 长文档阅读、报告总结、代码理解 | Claude Pro | 长上下文和长文本处理体验更突出 |
+| 没有海外信用卡 | 第三方充值或礼品卡方案 | 重点看安全性、退款规则和账号要求 |
+| 公司或团队使用 | Pro / Team / 批量充值 | 需要考虑发票、续费、成员管理和售后 |
 
-For Claude Pro recharge, visit [upclaude.com](https://upclaude.com/).
+## 常见支付问题
 
-## Why Users in China Need a Recharge Guide
+国内用户遇到的典型问题包括：
 
-Many users in China want to use ChatGPT Plus, ChatGPT Pro, Claude Pro, Codex, and other advanced AI tools for learning, programming, writing, research, and business productivity. The problem is that direct subscription payment can be difficult when local bank cards, Alipay, or WeChat Pay are not accepted by the official international payment flow.
+- `Your card has been declined`
+- `Unable to process this payment`
+- 信用卡扣款失败
+- 虚拟卡无法绑定
+- 下个月续费失败
+- 礼品卡余额无法正常抵扣
+- Claude Pro 付款页无法完成支付
 
-This creates a practical gap:
+这些问题通常不是用户操作错误，而是支付通道、发卡地区、风控策略、账单地址、IP 环境和订阅平台规则共同造成的。
 
-- Users can create or log in to their AI accounts, but cannot always complete payment.
-- Overseas credit cards are not available to many students, developers, creators, and small teams.
-- Some users do not want to open a virtual card only for one AI subscription.
-- Teams may need batch recharge, business receipts, or a more predictable support process.
+## 订阅方式对比
 
-GETGPT Pro addresses this gap by offering ChatGPT Plus and ChatGPT Pro recharge support with China-friendly payment methods. Claude Pro users can check upclaude.com for Claude recharge options.
+| 方式 | 优点 | 风险点 | 适合人群 |
+| --- | --- | --- | --- |
+| 海外信用卡直接支付 | 官方路径，续费清晰 | 国内卡通过率低，需要稳定海外卡 | 有海外卡的用户 |
+| Apple / 礼品卡路线 | 不一定需要海外信用卡 | 区域、汇率、账号地区和礼品卡来源要确认 | 熟悉 Apple 账号的用户 |
+| 虚拟卡 | 自主性较高 | 平台跑路、余额冻结、风控、手续费 | 有经验且能承担风险的用户 |
+| 第三方充值 | 支持支付宝/微信，流程简单 | 要看渠道信誉、账号安全和退款规则 | 不想折腾支付的人 |
+| 合租账号 | 价格低 | 隐私差、稳定性差、封禁和数据混用风险 | 不建议用于重要工作 |
 
-## Recommended Services
+## 选择前检查清单
 
-### ChatGPT Plus Recharge
+在付款前建议确认：
 
-ChatGPT Plus is a good fit for daily AI users who need better ChatGPT access for writing, translation, brainstorming, learning, file analysis, image generation, and lightweight coding.
+- 是否需要提供密码、验证码、API Key 等敏感信息
+- 是否说明退款条件和处理时间
+- 是否能看到真实价格、套餐周期和续费规则
+- 是否支持支付宝或微信支付
+- 是否说明与 OpenAI / Anthropic 的关系
+- 是否存在明显低于市场价的异常报价
+- 是否有客服、订单记录或售后入口
+- 是否适合自己的账号地区和使用场景
 
-Common use cases:
+不要把密码、一次性验证码、私钥、API Key 或重要工作账号交给陌生渠道。
 
-- AI writing and rewriting
-- English learning and translation
-- Office productivity
-- Document summarization
-- Research assistance
-- Prompt testing
-- Student learning workflows
-- Basic programming help
+## ChatGPT Plus 适合什么场景
 
-Recommended link: [GETGPT Pro ChatGPT Plus recharge](https://getgpt.pro/)
+ChatGPT Plus 更适合轻到中度用户。常见场景：
 
-### ChatGPT Pro Recharge
+- 中文和英文写作
+- 翻译、润色、改写
+- 学习和考试辅助
+- 简历、邮件、方案草稿
+- 日常办公自动化
+- 图片生成和创意探索
+- 普通代码问答和脚本修改
+- 文档摘要和信息整理
 
-ChatGPT Pro is designed for heavier users who need higher usage limits, stronger reasoning, advanced analysis, and professional AI workflows. It is especially useful for developers, AI teams, founders, researchers, and users who rely on Codex or AI coding assistance.
+如果你每天只是间歇性使用 AI，Plus 通常已经够用。
 
-Common use cases:
+## ChatGPT Pro 适合什么场景
 
-- Codex programming workflows
-- Advanced code review and refactoring
-- Long-form technical analysis
-- Data analysis and research
-- Product strategy and market research
-- Multi-step reasoning tasks
-- Heavy daily AI usage
-- Startup and business team productivity
+ChatGPT Pro 更适合重度用户。常见场景：
 
-Recommended link: [GETGPT Pro ChatGPT Pro recharge](https://getgpt.pro/)
+- Codex 编程助手
+- 复杂代码库阅读
+- 多文件重构和调试
+- 长链路推理
+- 数据分析和研究
+- 产品方案、市场分析、技术文档
+- 高频工作流自动化
+- 团队内部 AI 生产力工具
 
-### Claude Pro Recharge
+如果 ChatGPT 已经变成你的主要工作工具，Pro 更值得考虑。
 
-Claude Pro is useful for long-context reading, document analysis, code understanding, careful reasoning, and high-quality long-form writing. Users who prefer Claude for reading large files, summarizing documents, or analyzing code can check Claude recharge details at upclaude.com.
+## Claude Pro 适合什么场景
 
-Common use cases:
+Claude Pro 常用于长文本和复杂阅读任务。常见场景：
 
-- Long document reading
-- Contract and report summarization
-- Codebase explanation
-- Research note synthesis
-- Business writing
-- Careful long-form Q&A
-- Comparing Claude and ChatGPT answers
+- 长文档阅读
+- 合同、报告、论文总结
+- 大段代码解释
+- 研究资料整理
+- 商务写作
+- 内容策划和长文生成
+- 与 ChatGPT 交叉验证答案
 
-Recommended link: [Claude Pro recharge](https://upclaude.com/)
+很多用户会同时保留 ChatGPT 和 Claude：ChatGPT 用于工具、代码和综合任务，Claude 用于长文本、阅读和细腻写作。
 
-## Key Benefits
+## 国内用户的实用建议
 
-- Supports users who do not have an overseas credit card
-- Supports China-friendly payment methods such as Alipay and WeChat Pay
-- Covers ChatGPT Plus, ChatGPT Pro, and Claude Pro subscription needs
-- Useful for developers using Codex and AI coding workflows
-- Practical for students, creators, researchers, founders, and company teams
-- Can support individual recharge, renewal, and team subscription needs
-- Provides a safer starting point than random social media sellers
-- Encourages users to follow official website instructions and avoid sharing sensitive credentials
+1. 先判断自己到底需要 Plus、Pro 还是 Claude Pro，不要直接买最高档。
+2. 能官方支付就优先官方支付。
+3. 不能官方支付时，再考虑礼品卡、第三方充值或其他替代方案。
+4. 不要为了低价使用来源不明的黑卡、合租账号或共享账号。
+5. 重要账号不要交出密码和验证码。
+6. 付款前截图保存套餐、价格、订单和退款说明。
+7. 订阅成功后检查账号状态、续费日期和实际可用功能。
 
-## Important Safety Notes
+## 可选资源
 
-This guide is written for legitimate subscription and payment assistance. Users should not share passwords, one-time verification codes, private keys, API keys, or sensitive account credentials with strangers.
+下面是一些国内用户常用的充值入口，使用前请自行确认价格、流程、退款规则和账号安全要求：
 
-Before paying, users should always check:
+- ChatGPT Plus / ChatGPT Pro: https://getgpt.pro/
+- Claude Pro: https://upclaude.com/
 
-- The latest price shown on the service website
-- The current refund and after-sales policy
-- The exact recharge flow
-- Whether the selected plan matches their account and usage needs
-- Whether the service is independent from the official AI provider
+## FAQ
 
-GETGPT Pro, this repository, and upclaude.com are independent third-party services. They are not affiliated with, endorsed by, sponsored by, or officially authorized by OpenAI, Anthropic, ChatGPT, Claude, or Codex.
+### 国内银行卡能直接开 ChatGPT Plus 吗？
 
-## Frequently Asked Questions
+不一定。部分卡可能偶尔成功，但失败、拒付和续费失败很常见。是否可用取决于发卡地区、卡组织、账单地址、风控规则和账户环境。
 
-### What is GETGPT Pro?
+### 支付宝或微信能直接付款吗？
 
-GETGPT Pro is a third-party AI subscription recharge service for users in China who need help subscribing to ChatGPT Plus or ChatGPT Pro with local payment methods such as Alipay and WeChat Pay.
+OpenAI 和 Anthropic 的官方国际订阅流程通常不直接支持国内常用的支付宝和微信支付。国内用户一般会通过海外卡、礼品卡、虚拟卡或第三方充值来解决。
 
-### Can I recharge ChatGPT Plus without an overseas credit card?
+### Plus 和 Pro 怎么选？
 
-Yes. GETGPT Pro is designed for users who cannot easily use an overseas credit card for OpenAI subscription payment. Users can check current payment options and plan details at getgpt.pro.
+轻度和中度使用选 Plus。每天长时间使用、需要 Codex、复杂推理、代码分析、研究和高频任务，考虑 Pro。
 
-### Can I recharge ChatGPT Pro?
+### Claude Pro 和 ChatGPT Plus 冲突吗？
 
-Yes. GETGPT Pro supports ChatGPT Pro recharge and upgrade needs. ChatGPT Pro is more suitable for heavy users, developers, researchers, founders, and teams that need higher limits and advanced reasoning.
+不冲突。两者偏向不同。ChatGPT 更像综合工作台，Claude 在长文本阅读、总结和写作上很适合做补充。
 
-### Does this help with Codex?
+### 第三方充值一定安全吗？
 
-ChatGPT Plus and ChatGPT Pro users often care about Codex and AI coding workflows. If your work involves coding, repository analysis, debugging, or long technical tasks, ChatGPT Pro may be worth comparing against Plus based on current limits and your usage intensity.
+不一定。要看是否要求敏感信息、是否有清楚的退款规则、是否价格异常、是否有售后入口。不要因为便宜牺牲账号安全。
 
-### Where can I recharge Claude Pro?
+### 这个仓库是官方的吗？
 
-For Claude Pro recharge and pricing details, visit [upclaude.com](https://upclaude.com/). Claude Pro is often useful for long-context reading, document analysis, and careful long-form writing.
+不是。本仓库只是订阅选择和支付风险整理，不代表 OpenAI、Anthropic、ChatGPT、Claude 或 Codex 官方。
 
-### Is GETGPT Pro affiliated with OpenAI or Anthropic?
+## Keywords
 
-No. GETGPT Pro is an independent third-party service. It is not affiliated with OpenAI, Anthropic, ChatGPT, Claude, or Codex.
-
-### Is there any risk?
-
-All third-party recharge services should be used carefully. Users should read the current website instructions, avoid sharing sensitive account credentials, and understand refund, account, and platform policy risks before ordering.
-
-## Chinese Keywords
-
-ChatGPT Plus 充值, ChatGPT Pro 充值, GPT Pro 升级, ChatGPT 国内充值, Claude Pro 充值, Claude 国内订阅, OpenAI 支付失败, Claude 支付失败, 支付宝充值 ChatGPT, 微信支付 ChatGPT, 无需海外信用卡, GPT 代充, Claude 代充, Codex 充值, AI 编程助手, 国内用户订阅 ChatGPT, 国内用户订阅 Claude.
-
-## English Keywords
-
-ChatGPT Plus recharge, ChatGPT Pro recharge, Claude Pro recharge, ChatGPT subscription China, Claude subscription China, OpenAI payment China, Anthropic payment China, Alipay ChatGPT, WeChat Pay ChatGPT, no overseas credit card, GPT Pro upgrade, Codex coding assistant, AI subscription recharge.
+ChatGPT Plus 充值, ChatGPT Pro 充值, ChatGPT 国内订阅, ChatGPT Plus 国内支付, ChatGPT Pro 国内支付, Claude Pro 充值, Claude 国内订阅, OpenAI 支付失败, Anthropic 支付失败, 支付宝 ChatGPT, 微信支付 ChatGPT, 无海外信用卡, Codex 订阅, AI 编程助手, ChatGPT subscription China, Claude subscription China, ChatGPT recharge, Claude recharge.
 
 ## Repository Structure
 
@@ -156,8 +165,4 @@ ChatGPT Plus recharge, ChatGPT Pro recharge, Claude Pro recharge, ChatGPT subscr
     ├── china-ai-subscription-guide.md
     └── faq.md
 ```
-
-## Suggested GitHub Topics
-
-`agent-skills`, `skill-md`, `claude-code`, `codex`, `chatgpt-plus`, `chatgpt-pro`, `claude-pro`, `openai`, `anthropic`, `chatgpt-recharge`, `claude-recharge`, `alipay`, `wechat-pay`, `china-users`, `ai-subscription`
 
